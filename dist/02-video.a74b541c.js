@@ -503,6 +503,7 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"fFZ34":[function(require,module,exports) {
+console.log("12344");
 
 },{}]},["5rKFT","fFZ34"], "fFZ34", "parcelRequired7c6")
 
