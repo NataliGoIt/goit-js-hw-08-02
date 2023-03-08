@@ -3,7 +3,7 @@
 43E:\IT\goit-js-hw-08-02\src\03-feedback.html133214495890782518 0
 84E:\IT\goit-js-hw-08-02\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c121436361000000000 0
 58E:\IT\goit-js-hw-08-02\node_modules\path-type\package.json121436361000000000 0
-27E:\IT\goit-js-hw-08-02\dist133216358989365540 1
+27E:\IT\goit-js-hw-08-02\dist133217073408314060 1
 59E:\IT\goit-js-hw-08-02\node_modules\@parcel\packager-js\lib133215251458271526 1
 40E:\IT\goit-js-hw-08-02\node_modules\csso133215251596359403 1
 45E:\IT\goit-js-hw-08-02\node_modules\callsites133215251594381245 1
@@ -93,7 +93,7 @@
 53E:\IT\goit-js-hw-08-02\node_modules\commander\typings133215251430287437 1
 65E:\IT\goit-js-hw-08-02\node_modules\entities\lib\encode-trie.d.ts121436361000000000 0
 68E:\IT\goit-js-hw-08-02\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
-41E:\IT\goit-js-hw-08-02\src\js\02-video.js133216358987701836 0
+41E:\IT\goit-js-hw-08-02\src\js\02-video.js133217073403273760 0
 108E:\IT\goit-js-hw-08-02\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV2\files\embed\file2.txt121436361000000000 0
 87E:\IT\goit-js-hw-08-02\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map121436361000000000 0
 61E:\IT\goit-js-hw-08-02\node_modules\utility-types\SECURITY.md121436361000000000 0
@@ -646,7 +646,7 @@
 73E:\IT\goit-js-hw-08-02\node_modules\simplelightbox\src\license-notice.txt121436361000000000 0
 47E:\IT\goit-js-hw-08-02\node_modules\xxhash-wasm133215251506670609 1
 64E:\IT\goit-js-hw-08-02\node_modules\svgo\plugins\inlineStyles.js121436361000000000 0
-50E:\IT\goit-js-hw-08-02\dist\01-gallery.53390864.js133216223255237307 0
+50E:\IT\goit-js-hw-08-02\dist\01-gallery.53390864.js133217068087457027 0
 57E:\IT\goit-js-hw-08-02\node_modules\fast-glob\out\readers133215251568917331 1
 40E:\IT\goit-js-hw-08-02\node_modules\yaml133215251626691322 1
 50E:\IT\goit-js-hw-08-02\node_modules\yaml\schema.js121436361000000000 0
@@ -1208,7 +1208,7 @@
 82E:\IT\goit-js-hw-08-02\node_modules\@parcel\node-resolver-core\test\fixture\foo.js121436361000000000 0
 69E:\IT\goit-js-hw-08-02\node_modules\css-tree\lib\syntax\node\Value.js121436361000000000 0
 49E:\IT\goit-js-hw-08-02\node_modules\timsort\build133215251555402103 1
-55E:\IT\goit-js-hw-08-02\dist\01-gallery.7d68834f.css.map133216223256116491 0
+55E:\IT\goit-js-hw-08-02\dist\01-gallery.7d68834f.css.map133217068083046045 0
 58E:\IT\goit-js-hw-08-02\node_modules\entities\lib\encode.js121436361000000000 0
 67E:\IT\goit-js-hw-08-02\node_modules\caniuse-lite\data\regions\YE.js121436361000000000 0
 52E:\IT\goit-js-hw-08-02\node_modules\timsort\index.js131138581980000000 0
@@ -1319,7 +1319,7 @@
 59E:\IT\goit-js-hw-08-02\node_modules\.bin\node-gyp-build.cmd133215251802868282 0
 59E:\IT\goit-js-hw-08-02\node_modules\picocolors\package.json121436361000000000 0
 55E:\IT\goit-js-hw-08-02\node_modules\terser\bin\uglifyjs121436361000000000 0
-55E:\IT\goit-js-hw-08-02\dist\03-feedback.5440b4f4.js.map133216225329962483 0
+55E:\IT\goit-js-hw-08-02\dist\03-feedback.5440b4f4.js.map133217068087546952 0
 52E:\IT\goit-js-hw-08-02\node_modules\braces\README.md121436361000000000 0
 56E:\IT\goit-js-hw-08-02\node_modules\term-size\index.d.ts121436361000000000 0
 53E:\IT\goit-js-hw-08-02\node_modules\term-size\license121436361000000000 0
@@ -1376,7 +1376,7 @@
 51E:\IT\goit-js-hw-08-02\node_modules\chalk\readme.md121436361000000000 0
 77E:\IT\goit-js-hw-08-02\node_modules\lmdb\node_modules\node-addon-api\index.js121436361000000000 0
 69E:\IT\goit-js-hw-08-02\node_modules\svgo\plugins\removeUselessDefs.js121436361000000000 0
-51E:\IT\goit-js-hw-08-02\dist\01-gallery.101ee4ef.css133216223256056562 0
+51E:\IT\goit-js-hw-08-02\dist\01-gallery.101ee4ef.css133217068083046045 0
 60E:\IT\goit-js-hw-08-02\node_modules\lmdb-linux-x64\README.md121436361000000000 0
 78E:\IT\goit-js-hw-08-02\node_modules\svgo\plugins\removeUselessStrokeAndFill.js121436361000000000 0
 58E:\IT\goit-js-hw-08-02\node_modules\nan\nan_string_bytes.h121436361000000000 0
@@ -2055,7 +2055,7 @@
 125E:\IT\goit-js-hw-08-02\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\package.json121436361000000000 0
 57E:\IT\goit-js-hw-08-02\node_modules\node-gyp-build\bin.js121436361000000000 0
 64E:\IT\goit-js-hw-08-02\node_modules\node-gyp-build\build-test.js121436361000000000 0
-55E:\IT\goit-js-hw-08-02\dist\01-gallery.101ee4ef.css.map133216223256056562 0
+55E:\IT\goit-js-hw-08-02\dist\01-gallery.101ee4ef.css.map133217068083046045 0
 65E:\IT\goit-js-hw-08-02\node_modules\mdn-data\api\inheritance.json121436361000000000 0
 59E:\IT\goit-js-hw-08-02\node_modules\node-gyp-build\index.js121436361000000000 0
 71E:\IT\goit-js-hw-08-02\node_modules\css-tree\lib\syntax\config\lexer.js121436361000000000 0
@@ -2335,7 +2335,7 @@
 56E:\IT\goit-js-hw-08-02\node_modules\is-arrayish\index.js130855357210000000 0
 47E:\IT\goit-js-hw-08-02\node_modules\.bin\semver133215251849876962 0
 79E:\IT\goit-js-hw-08-02\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md121436361000000000 0
-56E:\IT\goit-js-hw-08-02\dist\03-feedback.ba2d0753.css.map133216223256066540 0
+56E:\IT\goit-js-hw-08-02\dist\03-feedback.ba2d0753.css.map133217068083046045 0
 90E:\IT\goit-js-hw-08-02\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h121436361000000000 0
 75E:\IT\goit-js-hw-08-02\node_modules\lmdb\node_modules\node-addon-api\napi.h121436361000000000 0
 67E:\IT\goit-js-hw-08-02\node_modules\caniuse-lite\data\regions\KR.js121436361000000000 0
@@ -2744,7 +2744,7 @@
 66E:\IT\goit-js-hw-08-02\node_modules\escape-string-regexp\readme.md131005306320000000 0
 93E:\IT\goit-js-hw-08-02\node_modules\@parcel\css-linux-x64-musl\parcel-css.linux-x64-musl.node121436361000000000 0
 49E:\IT\goit-js-hw-08-02\node_modules\escalade\dist133215251466034342 1
-41E:\IT\goit-js-hw-08-02\dist\02-video.html133216223256755908 0
+41E:\IT\goit-js-hw-08-02\dist\02-video.html133217068096860683 0
 55E:\IT\goit-js-hw-08-02\node_modules\escalade\index.d.ts121436361000000000 0
 49E:\IT\goit-js-hw-08-02\node_modules\escalade\sync133215251469371255 1
 67E:\IT\goit-js-hw-08-02\node_modules\caniuse-lite\data\regions\BD.js121436361000000000 0
@@ -3116,7 +3116,7 @@
 64E:\IT\goit-js-hw-08-02\node_modules\cosmiconfig\dist\readFile.js121436361000000000 0
 68E:\IT\goit-js-hw-08-02\node_modules\cosmiconfig\dist\readFile.js.map121436361000000000 0
 52E:\IT\goit-js-hw-08-02\node_modules\@swc\helpers\lib133215251769381599 1
-38E:\IT\goit-js-hw-08-02\dist\index.html133216223256755908 0
+38E:\IT\goit-js-hw-08-02\dist\index.html133217068096860683 0
 67E:\IT\goit-js-hw-08-02\node_modules\cosmiconfig\dist\types.d.ts.map121436361000000000 0
 61E:\IT\goit-js-hw-08-02\node_modules\cosmiconfig\dist\types.js121436361000000000 0
 65E:\IT\goit-js-hw-08-02\node_modules\cosmiconfig\dist\types.js.map121436361000000000 0
@@ -3698,7 +3698,7 @@
 75E:\IT\goit-js-hw-08-02\node_modules\caniuse-lite\data\features\maxlength.js121436361000000000 0
 103E:\IT\goit-js-hw-08-02\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate-override.js121436361000000000 0
 68E:\IT\goit-js-hw-08-02\node_modules\@parcel\transformer-js\native.js121436361000000000 0
-56E:\IT\goit-js-hw-08-02\dist\goit-js-hw-08-02.59712999.js133216223254687823 0
+56E:\IT\goit-js-hw-08-02\dist\goit-js-hw-08-02.59712999.js133217068087457027 0
 94E:\IT\goit-js-hw-08-02\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js121436361000000000 0
 96E:\IT\goit-js-hw-08-02\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-plaintext.js121436361000000000 0
 91E:\IT\goit-js-hw-08-02\node_modules\caniuse-lite\data\features\mdn-text-decoration-color.js121436361000000000 0
@@ -4889,12 +4889,12 @@
 49E:\IT\goit-js-hw-08-02\node_modules\.bin\svgo.cmd133215251853092594 0
 51E:\IT\goit-js-hw-08-02\node_modules\.bin\terser.cmd133215251852782887 0
 51E:\IT\goit-js-hw-08-02\node_modules\.bin\terser.ps1133215251852782887 0
-54E:\IT\goit-js-hw-08-02\dist\01-gallery.53390864.js.map133216223255936653 0
-51E:\IT\goit-js-hw-08-02\dist\01-gallery.7d68834f.css133216223256116491 0
-43E:\IT\goit-js-hw-08-02\dist\01-gallery.html133216223256755908 0
-48E:\IT\goit-js-hw-08-02\dist\02-video.a74b541c.js133216358989325576 0
-52E:\IT\goit-js-hw-08-02\dist\02-video.a74b541c.js.map133216358989345553 0
-51E:\IT\goit-js-hw-08-02\dist\03-feedback.5440b4f4.js133216225329922510 0
-52E:\IT\goit-js-hw-08-02\dist\03-feedback.ba2d0753.css133216223256056562 0
-44E:\IT\goit-js-hw-08-02\dist\03-feedback.html133216223256755908 0
-60E:\IT\goit-js-hw-08-02\dist\goit-js-hw-08-02.59712999.js.map133216223255946644 0
+54E:\IT\goit-js-hw-08-02\dist\01-gallery.53390864.js.map133217068087606894 0
+51E:\IT\goit-js-hw-08-02\dist\01-gallery.7d68834f.css133217068083046045 0
+43E:\IT\goit-js-hw-08-02\dist\01-gallery.html133217068096860683 0
+48E:\IT\goit-js-hw-08-02\dist\02-video.a74b541c.js133217073408284079 0
+52E:\IT\goit-js-hw-08-02\dist\02-video.a74b541c.js.map133217073408304067 0
+51E:\IT\goit-js-hw-08-02\dist\03-feedback.5440b4f4.js133217068087457027 0
+52E:\IT\goit-js-hw-08-02\dist\03-feedback.ba2d0753.css133217068083046045 0
+44E:\IT\goit-js-hw-08-02\dist\03-feedback.html133217068096860683 0
+60E:\IT\goit-js-hw-08-02\dist\goit-js-hw-08-02.59712999.js.map133217068087596903 0
